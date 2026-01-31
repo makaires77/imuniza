@@ -182,4 +182,4 @@ Desenvolvido com Unity e muito café ☕
 
 ---
 
-**FIOCE** - Fundação Instituto Oswaldo Cruz Educacional
+**FIOCE** - Fundação Instituto Oswaldo Cruz Escritório Ceará
