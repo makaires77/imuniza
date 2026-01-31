@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9abe9d9a786c84414b55fe825eeca5ad
+labels:
+- City
+- Light
+- Props
+- Road
+- Street
+- Town
+- Traffic
+timeCreated: 1489636505
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

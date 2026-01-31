@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf4ffc8888c9caa409fc89d8122ead5c, type: 3}
+  m_Name: Gripe
+  m_EditorClassIdentifier: Assembly-CSharp::Sickness
+  name: Gripe
+  icon: {fileID: -5761782549653254881, guid: 67f2ccec5771e3442832023047c67ee1, type: 3}
+  transmissibility: 70
+  lethality: 70
+  symptoms:
+  - {fileID: 11400000, guid: 58c073278cc922447b572e84b629cb96, type: 2}
+  - {fileID: 11400000, guid: 4607994558c20334b82f7f16c90526d6, type: 2}
+  - {fileID: 11400000, guid: dbe91d7eb4ca522419611271df2d9db1, type: 2}

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d04106c0a832d49b898d5acc32d5002d
+labels:
+- City
+- Hydrant
+- Props
+- Town
+- Water
+timeCreated: 1489636161
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

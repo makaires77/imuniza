@@ -1,0 +1,3328 @@
+fileFormatVersion: 2
+guid: d0ca651ecfa42c74487dd8b85485b876
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6442217555776213255
+    second: ui home
+  - first:
+      213: -1623859735219057032
+    second: ui sound off
+  - first:
+      213: -4625751052998417252
+    second: ui cart
+  - first:
+      213: -5657222250317421920
+    second: ui info
+  - first:
+      213: 1711643616134319132
+    second: ui question
+  - first:
+      213: -8444701510587792380
+    second: ui cloud
+  - first:
+      213: -6520903301054920321
+    second: ui lock
+  - first:
+      213: 1681093999558955343
+    second: ui cog
+  - first:
+      213: -1623859735219057032
+    second: ui sound on
+  - first:
+      213: -4648396506994297461
+    second: ui music
+  - first:
+      213: 5583161230244514091
+    second: ui pause
+  - first:
+      213: 7862673965857743044
+    second: ui equal
+  - first:
+      213: -3343454512610983130
+    second: ui plus
+  - first:
+      213: 313692528516391042
+    second: ui x
+  - first:
+      213: 61977730165585125
+    second: ui trophy
+  - first:
+      213: -72945019330760943
+    second: ui again
+  - first:
+      213: -5210673101502619199
+    second: ui stop
+  - first:
+      213: 4472256551090261451
+    second: ui forward
+  - first:
+      213: -5174937278504909307
+    second: ui play
+  - first:
+      213: -9188002707633029508
+    second: ui arrow 01
+  - first:
+      213: -6143508815361128973
+    second: ui arrow 02
+  - first:
+      213: 68276788897784386
+    second: ui menu 01
+  - first:
+      213: 3900329482469141412
+    second: ui share
+  - first:
+      213: -6134895624958674409
+    second: ui user remove
+  - first:
+      213: 9167929457009565497
+    second: ui user add
+  - first:
+      213: 4046166770862027440
+    second: ui user
+  - first:
+      213: -1628182803235726471
+    second: ui users
+  - first:
+      213: -5213069622237907668
+    second: ui ranking
+  - first:
+      213: -568141631558354949
+    second: ui mail
+  - first:
+      213: 1482151028440318238
+    second: ui dollar
+  - first:
+      213: -6753232176120004722
+    second: ui target
+  - first:
+      213: 3930639277643581833
+    second: ui heart
+  - first:
+      213: 6724999825246511828
+    second: ui check
+  - first:
+      213: 787585477463542922
+    second: ui gallery
+  - first:
+      213: -6740761676442001546
+    second: ui menu 02
+  - first:
+      213: -8969906496094161310
+    second: ui pill
+  - first:
+      213: 6608508523138036692
+    second: ui bandaid
+  - first:
+      213: -1198756849636779182
+    second: ui key
+  - first:
+      213: 6507363377341759431
+    second: ui heart add
+  - first:
+      213: 9150905928079591550
+    second: ui medal
+  - first:
+      213: -6033297860461060027
+    second: ui chat 01
+  - first:
+      213: -8637655668314429508
+    second: ui lightning
+  - first:
+      213: 6509612777738773099
+    second: ui shield
+  - first:
+      213: 812480839824600647
+    second: ui flask 01
+  - first:
+      213: -340884011546892996
+    second: ui flask 02
+  - first:
+      213: 2686159954329876347
+    second: ui shop
+  - first:
+      213: -7052406230557551804
+    second: ui chat 02
+  - first:
+      213: -283377465877153428
+    second: ui trash
+  - first:
+      213: -2827054571624990193
+    second: ui video
+  - first:
+      213: -8386853909340808746
+    second: ui crown
+  - first:
+      213: 5095449306525125820
+    second: ui reload
+  - first:
+      213: 8229321153036972970
+    second: ui pin
+  - first:
+      213: 1109797312767344934
+    second: ui clock
+  - first:
+      213: -923609393889393479
+    second: ui chronometer
+  - first:
+      213: -7813847138753323179
+    second: ui skull
+  - first:
+      213: 2799507309810123638
+    second: ui cross
+  - first:
+      213: 7668130340707233189
+    second: ui vaccine
+  - first:
+      213: -4707004267460999852
+    second: ui iml
+  - first:
+      213: 7021680874094371911
+    second: ui hospital
+  - first:
+      213: 1579193197646480512
+    second: ui fiocruz
+  - first:
+      213: 5905956738515800148
+    second: ui char dead
+  - first:
+      213: 4450271049703306673
+    second: ui char sick
+  - first:
+      213: -1553370557162555199
+    second: ui char healthy
+  - first:
+      213: 4741815296176035917
+    second: ui iml color
+  - first:
+      213: -4886066199313610110
+    second: ui hospital color
+  - first:
+      213: -1030525089679029842
+    second: ui vaccine color
+  - first:
+      213: 6746716289529554558
+    second: ui fiocruz color
+  - first:
+      213: -6673013138886424525
+    second: ui char dead color
+  - first:
+      213: 774511472076068540
+    second: ui char sick color
+  - first:
+      213: 7303045709261370001
+    second: ui char healthy color
+  - first:
+      213: -8860613149537883817
+    second: ui sound on color
+  - first:
+      213: 5878631038705435373
+    second: ui sound off color
+  - first:
+      213: -3927498008593200703
+    second: ui home color
+  - first:
+      213: 3944231361378410256
+    second: ui cart color
+  - first:
+      213: 5224644440684192227
+    second: ui cloud color
+  - first:
+      213: 1690181668000741473
+    second: ui lock color
+  - first:
+      213: -2796856134828016395
+    second: ui cog color
+  - first:
+      213: -8793593575313546068
+    second: ui trophy color
+  - first:
+      213: -9209538335653423866
+    second: ui ranking color
+  - first:
+      213: 2455986168678987020
+    second: ui user remove color
+  - first:
+      213: -5681645154570232588
+    second: ui user add color
+  - first:
+      213: -2337091695642702631
+    second: ui users color
+  - first:
+      213: -3458139779299249017
+    second: ui user color
+  - first:
+      213: -6729508660964411363
+    second: ui heart color
+  - first:
+      213: 3443543082642967026
+    second: ui pill color
+  - first:
+      213: -5737603963564826762
+    second: ui bandaid color
+  - first:
+      213: -2833282235759568738
+    second: ui key color
+  - first:
+      213: 7327567518206955897
+    second: ui heart add color
+  - first:
+      213: -5260278090198369329
+    second: ui mail color
+  - first:
+      213: 1682926694298682222
+    second: ui dollar color
+  - first:
+      213: -336684518173179148
+    second: ui person
+  - first:
+      213: 7164624130511602543
+    second: ui lightning color
+  - first:
+      213: -880701699344912805
+    second: ui medal gold color
+  - first:
+      213: 2931196015224796068
+    second: ui trash color
+  - first:
+      213: 8578192167862874847
+    second: ui shop color
+  - first:
+      213: 7373089117068768106
+    second: ui flask 02 color
+  - first:
+      213: 2633501770989159424
+    second: ui flask 01 color
+  - first:
+      213: 1629879701215273333
+    second: ui shield color
+  - first:
+      213: -1320158352703869221
+    second: ui video color
+  - first:
+      213: 1904320359683978632
+    second: ui cross color
+  - first:
+      213: 5378882503454471259
+    second: ui skull color
+  - first:
+      213: -6713701518933166430
+    second: ui chronometer color
+  - first:
+      213: -3693476031868070105
+    second: ui clock color
+  - first:
+      213: 1123900204626808023
+    second: ui pin color
+  - first:
+      213: 75578134815980499
+    second: ui crown color
+  - first:
+      213: 212698545864085615
+    second: ui bt square 01
+  - first:
+      213: -1950394676684347889
+    second: ui bt square shadow 01
+  - first:
+      213: -6711528205796836788
+    second: ui bt square 02
+  - first:
+      213: 8847220471127546243
+    second: ui bt square shadow 02
+  - first:
+      213: 4000060431840450531
+    second: ui bt square 03
+  - first:
+      213: 7360072475657918135
+    second: ui bt square shadow 03
+  - first:
+      213: 3390976396963927335
+    second: ui bt sausage 01
+  - first:
+      213: 844035853577642565
+    second: ui bt sausage shadow 01
+  - first:
+      213: -7100046756396885236
+    second: ui bt square 04
+  - first:
+      213: -3431587260348088285
+    second: ui bt square 05
+  - first:
+      213: -328994202757313244
+    second: ui bt square 06
+  - first:
+      213: 5137598434482042968
+    second: ui bt sausage 02
+  - first:
+      213: -6907778753494672792
+    second: ui line
+  - first:
+      213: 7051362533662517192
+    second: ui medal silver color
+  - first:
+      213: -1616744164625061300
+    second: ui medal bronze color
+  - first:
+      213: -2084788150036932631
+    second: ui bt square big
+  - first:
+      213: -8076882022435637427
+    second: ui bt circle
+  - first:
+      213: 6661425892519121921
+    second: ui locator
+  - first:
+      213: -3830031480542643929
+    second: ui gift color
+  - first:
+      213: 7389845416212016619
+    second: ui gift
+  - first:
+      213: -3812590037931270386
+    second: ui star big color
+  - first:
+      213: 4836149081625575803
+    second: ui star big
+  - first:
+      213: -7128341045390829256
+    second: ui circle big
+  - first:
+      213: -2760215261800197581
+    second: ui bed color
+  - first:
+      213: -4828961415181670919
+    second: ui bt square 08
+  - first:
+      213: 1751570552226887063
+    second: ui bt square 09
+  - first:
+      213: 5135151972525820908
+    second: ui bt square 10
+  - first:
+      213: -6421705931749916161
+    second: ui bt sausage 03
+  - first:
+      213: 5827488223253776566
+    second: ui bed empty color
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ui home
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86160f5272bab6048adf322c4df740b2
+      internalID: 6442217555776213255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui sound off
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe9d483e9d8ef04f96736ae64d30458
+      internalID: -1623859735219057032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui cart
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b39b77a7f79ba0f4596963ca8ff512d3
+      internalID: -4625751052998417252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui info
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc4f02a646ed8e4686ca542a029c8cd
+      internalID: -5657222250317421920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui question
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 025100d2c97927a4ea3cb073452d0978
+      internalID: 1711643616134319132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui cloud
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c38c8d699ad1a458f13ccd4000b095
+      internalID: -8444701510587792380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui lock
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120c8b866b515c646851e107c7d74251
+      internalID: -6520903301054920321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui cog
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f520b238524ad3458c1eff281d7fe3f
+      internalID: 1681093999558955343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui sound on
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d65d87e707351846b0d6bbddf44dbb2
+      internalID: -1623859735219057032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui music
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c7d33b45f08a74eba686eb5b5d955a
+      internalID: -4648396506994297461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui pause
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bef6105d72629a48b463ff0945167f4
+      internalID: 5583161230244514091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui equal
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b5d8239b39e064ab09105e2001cb74
+      internalID: 7862673965857743044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui plus
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b7f1c9dcca3d7b449d3dca474629414
+      internalID: -3343454512610983130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui x
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae26d1785d3713a4b8de2f87d05deffb
+      internalID: 313692528516391042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui trophy
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0261de44ea8cec442815c0d83ba4f01b
+      internalID: 61977730165585125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui again
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718041b42556d40489fdbbeaa9c7f640
+      internalID: -72945019330760943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui stop
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104f8165b1e62024d8689c9886aa4d5d
+      internalID: -5210673101502619199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui forward
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec9cddf7736edc458eb841e39510335
+      internalID: 4472256551090261451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui play
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3037fcdc353e84a955417e529d8f91
+      internalID: -5174937278504909307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui arrow 01
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b7c261f284f5b40b916ba575a55918
+      internalID: -9188002707633029508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui arrow 02
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e2d82e431d9194aad8838b7d7f286d
+      internalID: -6143508815361128973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui menu 01
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbba8b05bc9d1a04aaf4fd1fae9b1c14
+      internalID: 68276788897784386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui share
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185cc4079cd413e448e6ac7a99e96d94
+      internalID: 3900329482469141412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui user remove
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45e042598a644849b8e0c1aa69eb3fa
+      internalID: -6134895624958674409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui user add
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e058716b8ca5664b840cf067ab37fd2
+      internalID: 9167929457009565497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui user
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e61afe8de678444aa8c5f6ae5ee0ed
+      internalID: 4046166770862027440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui users
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686652ae610ba1c4b8f34f32876eff10
+      internalID: -1628182803235726471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui ranking
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738fc0252be8c0e42b48e587164946b7
+      internalID: -5213069622237907668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui mail
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253f2c55243ac0d4ca48f284745004ba
+      internalID: -568141631558354949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui dollar
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be96f9eb7037d20439fc559d8ecaf35a
+      internalID: 1482151028440318238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui target
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c865f70ccf43a3f4f9b7dd82788e6c95
+      internalID: -6753232176120004722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui heart
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9684e0a6bca464abdce34a399c61c2
+      internalID: 3930639277643581833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui check
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2b938e3e5f978419952fbefbb400a3
+      internalID: 6724999825246511828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui gallery
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb328a7a6f6531498a653fe354e1ce0
+      internalID: 787585477463542922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui menu 02
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ec241e61999ab489d86995ebd8a22c
+      internalID: -6740761676442001546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui pill
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b83bd8439cf1d54bab9be8c7872239a
+      internalID: -8969906496094161310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bandaid
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc57aec1426b39459caac1f235f7ad9
+      internalID: 6608508523138036692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui key
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa4fb4ea6c7cc4e48b15d1f1f9e37804
+      internalID: -1198756849636779182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui heart add
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99a76c18d46e4014988df1c9fe1a6d9b
+      internalID: 6507363377341759431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui medal
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835d3f6ec9b4b19429eba98bc7f4c6c2
+      internalID: 9150905928079591550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui chat 01
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb12d877732685e4988773fb83b5c72e
+      internalID: -6033297860461060027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui lightning
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b0c5ff514d06c4eb5395cdb4887ac2
+      internalID: -8637655668314429508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui shield
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3106e5f049d6b24bace9dd991ba2ab5
+      internalID: 6509612777738773099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui flask 01
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072d19e80ca5da2458e360408032bb4a
+      internalID: 812480839824600647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui flask 02
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f0c71a77e565545bcb36cefed0bb73
+      internalID: -340884011546892996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui shop
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055886a75be9a804dacf3eda4ad10262
+      internalID: 2686159954329876347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui chat 02
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f77b8ab5bbf6e3408d2700af85ccf29
+      internalID: -7052406230557551804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui trash
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a741ee120fa4bab428909e37311b5995
+      internalID: -283377465877153428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui video
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5e1cbbcc4fe254d9a9cd6ba532286a
+      internalID: -2827054571624990193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui crown
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05dd52415d2b3e41b581a782ad8e776
+      internalID: -8386853909340808746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui reload
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa35741339b489439e8bc1631040105
+      internalID: 5095449306525125820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui pin
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0512003e5ef24fc499f7ffd65ef561a3
+      internalID: 8229321153036972970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui clock
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d186e6e8f3bb6a4c992b98529be164d
+      internalID: 1109797312767344934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui chronometer
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea386dad0ff7f9e4e8bff59e5dc7a4f9
+      internalID: -923609393889393479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui skull
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a285393fb9d93c4aa65285e9f8e30aa
+      internalID: -7813847138753323179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui cross
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c476d4ac189ca19408a9277de6a2c529
+      internalID: 2799507309810123638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui vaccine
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48deee75c20963f4886c5882b2867b40
+      internalID: 7668130340707233189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui iml
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ddf55fa62d5f1f478c3d8aa100fa198
+      internalID: -4707004267460999852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui hospital
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f10315d7ae8c2b479740b75195503b7
+      internalID: 7021680874094371911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui fiocruz
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688e6d5ced1805544a2dc990175f8e24
+      internalID: 1579193197646480512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui char dead
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762e5dd491dd14240a9ad4bc6f7aac53
+      internalID: 5905956738515800148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui char sick
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eaed16833f490c469b91b857dd9b0b1
+      internalID: 4450271049703306673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui char healthy
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f410ffb0eae34448bf0d3ac3f8a015b
+      internalID: -1553370557162555199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui iml color
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220cc2b8c85c3194b8ca885c4c7a3d17
+      internalID: 4741815296176035917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui hospital color
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81d1ceaedba3824ca16d6368b406bf8
+      internalID: -4886066199313610110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui vaccine color
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983ce6ef374f2a74ebc0cd864d4b002f
+      internalID: -1030525089679029842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui fiocruz color
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538b3413697f8c34b88f4caec4cce73a
+      internalID: 6746716289529554558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui char dead color
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dbd84c4e9a77a478d7f1afc6ca8f0b
+      internalID: -6673013138886424525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui char sick color
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b6150ceca03334fb4628ccabeae420
+      internalID: 774511472076068540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui char healthy color
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542bd564da6cd4943a62b9cbe88594af
+      internalID: 7303045709261370001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui sound on color
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095ede3b1bf180946bed341d3c5ced72
+      internalID: -8860613149537883817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui sound off color
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1191516000e4d004aa7240626d6931a3
+      internalID: 5878631038705435373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui home color
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056ddebc1810ee74a8946d23972ae565
+      internalID: -3927498008593200703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui cart color
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3cb4ec1a00c7f408fbb2ad0c6add4a
+      internalID: 3944231361378410256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui cloud color
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc58fb992309ae46a3e3dc0156584ed
+      internalID: 5224644440684192227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui lock color
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182b9939818536b498b2db4b4af9d908
+      internalID: 1690181668000741473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui cog color
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb4322ef2115b4428186138da7299de
+      internalID: -2796856134828016395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui trophy color
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f6a0a05c596d64f95252737ee30055
+      internalID: -8793593575313546068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui ranking color
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2ca7d0c1fd03f40a5297304eeb1481
+      internalID: -9209538335653423866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui user remove color
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51171cbb965dd384d87e22fc88817812
+      internalID: 2455986168678987020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui user add color
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8469b183c2066824bb843e2c5d3ad016
+      internalID: -5681645154570232588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui users color
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c60ee5eae8b454e8b18a36bccdca44
+      internalID: -2337091695642702631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui user color
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61947e579cbbe942831fb8268c5f900
+      internalID: -3458139779299249017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui heart color
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 300693518dc4efe4da0bd1757401beb0
+      internalID: -6729508660964411363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui pill color
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904b49dbb2ff1794f86d664c9b3c33fc
+      internalID: 3443543082642967026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bandaid color
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73859eaed42d57f4da294b4339f124af
+      internalID: -5737603963564826762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui key color
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970a5627cda5b34981be09360a0e34e
+      internalID: -2833282235759568738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui heart add color
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0112bdeeb8004cc4b902658a0d1bc73e
+      internalID: 7327567518206955897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui mail color
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793026a74a2c20f47ad00445de614c01
+      internalID: -5260278090198369329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui dollar color
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868047b26282174bbdc629d7357944a
+      internalID: 1682926694298682222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui person
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c240d891894d20c488a11d2a59a606ed
+      internalID: -336684518173179148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui lightning color
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b38bf1d38811743955078e3e69d021
+      internalID: 7164624130511602543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui medal gold color
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aba7e2c914c1e349a53945301c3ae19
+      internalID: -880701699344912805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui trash color
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c05ddbcb77ccf840b7f35c53a67bb6b
+      internalID: 2931196015224796068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui shop color
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcdfa1d4636a3745ba9985ebdd76fa9
+      internalID: 8578192167862874847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui flask 02 color
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df22c228e37844b98ad35eca4db19a
+      internalID: 7373089117068768106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui flask 01 color
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5423f3e73cbec884ba91608954346ee5
+      internalID: 2633501770989159424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui shield color
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f302c25c5bc65ae4c9fb649d2902ff48
+      internalID: 1629879701215273333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui video color
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 5
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227aabfc87637bd4d84a37070ea58473
+      internalID: -1320158352703869221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui cross color
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 135
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f46f0c57c94f941926ca3e2538fc75
+      internalID: 1904320359683978632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui skull color
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 265
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09f05696fc81cc4983ecb8f30cdab53
+      internalID: 5378882503454471259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui chronometer color
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 395
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a2fc1b449c344544bfdd78acd79e2cc
+      internalID: -6713701518933166430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui clock color
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 525
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b91c85a5000bf4aa98010daad5b774
+      internalID: -3693476031868070105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui pin color
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 655
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b3796ed1bbaf54e822cfcbf9571839
+      internalID: 1123900204626808023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui crown color
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 785
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a245613a121fe40a66b707d630a582
+      internalID: 75578134815980499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square 01
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 915
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2874e0d4f43ccf94e81e2fc3b0fce8b6
+      internalID: 212698545864085615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square shadow 01
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 915
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8e0e56acf32514794d566505b40e5f
+      internalID: -1950394676684347889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square 02
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 915
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e078c6dc08e9e9469f793e32bc049e8
+      internalID: -6711528205796836788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square shadow 02
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 915
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1458e39681ad08468192337ee1c64f3
+      internalID: 8847220471127546243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square 03
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 915
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84d6dc2bbb4e95749a8bbae0afb49580
+      internalID: 4000060431840450531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square shadow 03
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 915
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 30, z: 30, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35490729144404686e7af17cbae6f2
+      internalID: 7360072475657918135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt sausage 01
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 915
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 31, z: 34, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b4ea8bf0172e849b97ee146071a1a4
+      internalID: 3390976396963927335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt sausage shadow 01
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 915
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 34, y: 0, z: 34, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9af1f5f588dcfd34fba17dea60bb4cfb
+      internalID: 844035853577642565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square 04
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 915
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9943b8a8a0487234f9102f055c2a4f56
+      internalID: -7100046756396885236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square 05
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 915
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39741b3df1d158a43983bb8f083076ab
+      internalID: -3431587260348088285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square 06
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 915
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 24, z: 24, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d8d2d690cae44bb2e900c6d7dd758
+      internalID: -328994202757313244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt sausage 02
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 915
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 31, z: 30, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512abd548b5ff0d4db430839c4ad5c36
+      internalID: 5137598434482042968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui line
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 989
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da165dc39d1a46409d38de71356cb8c
+      internalID: -6907778753494672792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui medal silver color
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 915
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446b5f6d37210ff49a565aa34a147f55
+      internalID: 7051362533662517192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui medal bronze color
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 915
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce03f488a48a5043827423de219bc53
+      internalID: -1616744164625061300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square big
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 915
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 53, y: 53, z: 53, w: 53}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b444bbcf7d6f76a44873ff9346ea88eb
+      internalID: -2084788150036932631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt circle
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 915
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e548ef314615c214db04c6f8759e7e32
+      internalID: -8076882022435637427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui locator
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1045
+        width: 128
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2f766a57cbf44ea4cd227b0700f7b
+      internalID: 6661425892519121921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui gift color
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 915
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e212feb025e2d24c9fcd0af2d151add
+      internalID: -3830031480542643929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui gift
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 915
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276d12e0d6ebd084595cfe158fa52f2f
+      internalID: 7389845416212016619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui star big color
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1045
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d3871fba1313ac4184195a84d659720
+      internalID: -3812590037931270386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui star big
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1305
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c265d9df73f18eb46989ef5a47790be5
+      internalID: 4836149081625575803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui circle big
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1045
+        width: 453
+        height: 453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18c5009518786548b486111f48fe4eb
+      internalID: -7128341045390829256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bed color
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1045
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c27858df82ccc943911d28512c06f9b
+      internalID: -2760215261800197581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square 08
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 5
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 9, z: 9, w: 9}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4782045ead87b9d47950452ab704c5a0
+      internalID: -4828961415181670919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square 09
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 79
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 16, y: 16, z: 16, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd888eecf991c74f9dc7c0616331ec7
+      internalID: 1751570552226887063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt square 10
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 153
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 24, z: 24, w: 24}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a97796a3af0f044e8ca90f6847865e6
+      internalID: 5135151972525820908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bt sausage 03
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 227
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 30, y: 31, z: 30, w: 31}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20bee34e40bd9a468ddf1f864731bfc
+      internalID: -6421705931749916161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ui bed empty color
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1045
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a39d05f62c6b4478ae9bb507ee6ee3
+      internalID: 5827488223253776566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 28d10219cff001f4892f127da6cbeb86
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

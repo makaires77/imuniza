@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf08f0dcb85793f459384a4f9eee5083, type: 3}
+  m_Name: Data_Sickness_Manager
+  m_EditorClassIdentifier: 
+  sickness:
+  - {fileID: 11400000, guid: 71aa2c8330e44c947a936bb2bf3a7d19, type: 2}
+  - {fileID: 11400000, guid: 2c10ac4e00603b047b1dfb1391788c54, type: 2}
+  - {fileID: 11400000, guid: 07cbc85034a976742ad4deafbd7db337, type: 2}
+  - {fileID: 11400000, guid: 21e022a9dfbea8943bea8f890e2f7b3e, type: 2}
+  - {fileID: 11400000, guid: a8e798ad2ad845d4d855fae42aa8185f, type: 2}
+  - {fileID: 11400000, guid: c878e10d001a669428f74b8e59a84b51, type: 2}

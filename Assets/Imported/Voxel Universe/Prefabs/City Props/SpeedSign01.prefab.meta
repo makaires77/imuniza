@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6b7cd1c9177db4e6da548529b193f235
+labels:
+- City
+- Props
+- Road
+- Sign
+- Speed
+- Street
+- Town
+timeCreated: 1490931156
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

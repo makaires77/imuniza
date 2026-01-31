@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0517bfa65c0494b9ba89b6cdc4873d39
+labels:
+- City
+- Ecologic
+- Props
+- Road
+- Street
+- Town
+- Trash
+timeCreated: 1489636525
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

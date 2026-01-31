@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 079252af204d14ba69c34df63083a782
+labels:
+- Cabin
+- City
+- Glass
+- Phone
+- Props
+- Town
+timeCreated: 1491191261
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

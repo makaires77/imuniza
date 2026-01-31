@@ -1,0 +1,29 @@
+Este pacote inclui:
+
+- 7 variações de prédios
+- 7 variações de estabelecimentos comerciais
+- 7 variações de residências
+- 4 blocos modulares de praia
+- 4 blocos modulares de rua com calçada
+- 2 variações de árvores
+- 1 arbusto
+- 1 banco de praça
+- 2 variações de planta em vaso
+- 1 chão de grama pequeno
+- 1 chão de grama grande
+- 1 chão de concreto pequeno
+- 1 chão de concreto grande
+
+
+Além de:
+
+
+- 1 textura separada e "seamless" de grama
+- 1 textura separada e "seamless" de concreto
+- 1 textura separada e "seamless" de água
+
+
+
+Há uma cena de exemplo onde montei uma pequena cidade para que se tenha uma ideia de como usar os elementos do pacote. Esta cena usa efeitos de câmera como "Ambient Occlusion", "Bloom" e "Color Grading" para alcançar um resultado visual mais bonito. Por isso adicionei ao pacote o "Post Processing FX" do Unity, gratuito na Asset Store. Ele pode ser removido, mas os efeitos desta cena sumirão.
+
+Tudo organizado dentro de suas pastas e com prefabs simples já preparados.

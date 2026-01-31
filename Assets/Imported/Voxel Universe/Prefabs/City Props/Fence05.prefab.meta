@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 83f8a875f11fb48b6aa4c6b379ff86a5
+labels:
+- City
+- Fence
+- Metal
+- Props
+- Road
+- Town
+timeCreated: 1490750300
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

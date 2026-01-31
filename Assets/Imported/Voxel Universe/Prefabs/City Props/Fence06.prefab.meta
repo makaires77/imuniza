@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 730dd90e410c4411782290f38e59b118
+labels:
+- City
+- Fence
+- Garden
+- Grass
+- Props
+- Town
+timeCreated: 1490931360
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
