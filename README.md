@@ -22,7 +22,7 @@ O **Imuniza** é um jogo de simulação onde o jogador assume o papel de um gest
 
 ## Requisitos
 
-- **Unity 2019.3.7f1** ou superior (recomendado Unity 2022 LTS)
+- **Unity 2019.3.7f1** ou superior (recomendado Unity 6.3 LTS - 6000.3.6f1)
 - **Sistema Operacional**: Windows, macOS ou Linux
 
 ## Instalação
@@ -182,4 +182,4 @@ Desenvolvido com Unity e muito café ☕
 
 ---
 
-**FIOCE** - Fundação Instituto Oswaldo Cruz Educacional
+**FIOCE** - Fundação Oswaldo Cruz Escritório Ceará
