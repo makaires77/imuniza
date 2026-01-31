@@ -388,7 +388,7 @@ namespace Cinemachine
                     velocity = FollowTarget.position - mLastTargetPosition;
                     break;
                 case Heading.HeadingDefinition.Velocity:
-                    velocity = mTargetRigidBody.velocity;
+                    velocity = mTargetRigidBody.linearVelocity;
                     break;
                 case Heading.HeadingDefinition.TargetForward:
                     velocity = FollowTarget.forward;
